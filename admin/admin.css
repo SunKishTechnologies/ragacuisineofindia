@@ -1,0 +1,151 @@
+BODY {
+	BACKGROUND-IMAGE: url(../images/logo1.jpg); background-repeat:repeat; MARGIN: 0px; FONT: 0.7em Arial, Helvetica, Sans-Serif; COLOR: #333;}
+IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+A {
+	COLOR: #000; TEXT-DECORATION: none
+}
+H1 {
+	MARGIN-BOTTOM: 0px; COLOR: #000; LETTER-SPACING: 1px
+}
+H2 {
+	MARGIN-BOTTOM: 0px; COLOR: #000; LETTER-SPACING: 1px
+}
+H3 {
+	MARGIN-BOTTOM: 0px; COLOR: #000; LETTER-SPACING: 1px
+}
+H1 {
+	CLEAR: both; FONT-WEIGHT: normal; FONT-SIZE: 160%; MARGIN: 40px 0px 0px 25px; TEXT-ALIGN: left
+}
+H2 {
+	FONT-SIZE: 140%
+}
+H3 {
+	MARGIN-TOP: 15px; FONT-SIZE: 100%
+}
+ADDRESS {
+	MARGIN-RIGHT: 220px; FONT-STYLE: normal; TEXT-ALIGN: right
+}
+ADDRESS A {
+	BORDER-BOTTOM: #aafb68 1px dotted
+}
+ADDRESS A:hover {
+	BORDER-BOTTOM: #4fb783 1px solid
+}
+BLOCKQUOTE {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 20px; BACKGROUND-IMAGE: url(images/rock.jpg); PADDING-BOTTOM: 20px; PADDING-TOP: 20px; TEXT-ALIGN: justify
+}
+#menuNav {
+	FONT-SIZE: 110%; MARGIN: 10px 0px 0px; WHITE-SPACE: nowrap; LIST-STYLE-TYPE: none
+}
+#menuNav A {
+	PADDING-RIGHT: 12px; DISPLAY: block; PADDING-LEFT: 0px; FONT-WEIGHT: bold; BACKGROUND: url(images/tabRight.jpg) no-repeat right top; FLOAT: none; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 2px; COLOR: #333; PADDING-TOP: 6px
+}
+#menuNav A:hover {
+	COLOR: #1a7846; TEXT-DECORATION: none
+}
+#menuNav LI {
+	PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 13px; BACKGROUND: url(images/tabLeft.jpg) no-repeat left top; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.section {
+	BORDER-RIGHT: #f1f0f0 1px solid; PADDING-RIGHT: 25px; PADDING-LEFT: 25px; BACKGROUND-IMAGE: url(images/rock.jpg); PADDING-BOTTOM: 25px; MARGIN-LEFT: 35px; BORDER-LEFT: #f1f0f0 1px solid; WIDTH: 645px; PADDING-TOP: 25px; BORDER-BOTTOM: #f1f0f0 1px solid; POSITION: absolute; TOP: 330px
+}
+P {
+	PADDING-RIGHT: 25px; PADDING-LEFT: 25px; BACKGROUND-IMAGE: url(images/rock.jpg); PADDING-BOTTOM: 10px; MARGIN: 0px; PADDING-TOP: 10px
+}
+#menu #footer {
+	MARGIN-TOP: 850px
+}
+#nav {
+	CLEAR: left; MARGIN-TOP: 61px; FONT: bold 14pt Arial,Verdana; MARGIN-LEFT: 25px; TEXT-TRANSFORM: uppercase; WIDTH: 400px; bordr-top: 2px solid #4FB783
+}
+#nav LI {
+	DISPLAY: inline; MARGIN-RIGHT: 23px
+}
+#nav A {
+	COLOR: #ccc
+}
+#nav A:hover {
+	COLOR: #a4e1c3
+}
+#thisPage {
+	COLOR: #169052
+}
+#menu SPAN {
+	COLOR: #000
+}
+#menu H2 {
+	COLOR: #1a7846
+}
+#underMenu {
+	CLEAR: both; POSITION: absolute; TOP: 323px
+}
+#centerMe {
+	BORDER-RIGHT: #ccc 3px double; PADDING-RIGHT: 20px; PADDING-LEFT: 20px; PADDING-BOTTOM: 20px; MARGIN: 0px auto; BORDER-LEFT: #ccc 3px double; WIDTH: 740px; PADDING-TOP: 20px; BACKGROUND-COLOR: #fff; TEXT-ALIGN: left
+}
+#footer {
+	CLEAR: both; MARGIN-TOP: 20px; COLOR: #999; LETTER-SPACING: 2px; TEXT-ALIGN: center
+}
+#footer A {
+	COLOR: #999
+}
+#footer A:hover {
+	COLOR: #333
+}
+#logo {
+	FLOAT: left; MARGIN-RIGHT: 7px; margn-top: 30px
+}
+#starters {
+	VISIBILITY: hidden
+}
+#tandoori {
+	VISIBILITY: hidden
+}
+#breads {
+	VISIBILITY: hidden
+}
+#tandoors {
+	VISIBILITY: hidden
+}
+#basmati {
+	VISIBILITY: hidden
+}
+#desserts {
+	VISIBILITY: hidden
+}
+#starters A {
+	COLOR: #1a7846
+}
+link {
+	FONT-STYLE: normal;
+}
+link A {
+	BORDER-BOTTOM: #aafb68 1px dotted
+}
+link A:hover {
+	BORDER-BOTTOM: #4fb783 1px solid
+}
+/* nav table */
+.navTable { font-size: 11px; margin-bottom: 8px; border-bottom: 1px solid #999999; }
+.navRow1 { padding-bottom: 2px; }
+.navRow2 { font-size: 14px; font-weight:bold; padding-bottom: 2px; }
+.navRow3 { font-size: 14px; font-weight:bold; padding-bottom: 2px; }
+
+/* side table */
+.sideTable { background-color: #FFFFFF; margin-bottom: 8px; font-size: 11px; border: 1px solid #CDCDCD; }
+.sideHeader { font-size: 14px; font-weight:bold; padding: 4px; border-bottom: 1px solid #EFE8DA; }
+.sideRow { font-size: 14px; font-weight:bold; padding-left: 8px; padding-top: 4px; padding-right: 4px; padding-bottom: 4px; }
+
+
+
+/* navigation links */
+a.nav:link, a.nav:active, a.nav:visited { text-decoration: none; font-size: 12px; color: #444444; }
+a.nav:hover { text-decoration: underline; font-size: 12px; color: #444444; }
+
+
+
+/* side menu links */
+a.opt:link, a.opt:active, a.opt:visited { text-decoration: none; font-size: 11px; color: #444444; }
+a.opt:hover { text-decoration: underline; font-size: 11px; color: #444444; }
+
